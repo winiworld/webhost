@@ -39,7 +39,7 @@
     - GitHub Actions 将会根据你设置的定时任务（例如每三天一次）自动运行脚本。
     - 如果需要手动触发，可以在 Actions 页面手动运行工作流。
 
-#### 示例 Secrets 和获取方法总结
+#### 示例 Secrets 和 获取方法总结
 
 - **TELEGRAM_BOT_TOKEN**
     - 示例值: `1234567890:ABCDEFghijklmnopQRSTuvwxyZ`
