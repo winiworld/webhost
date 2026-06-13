@@ -17,7 +17,7 @@
     - 获取到你的 Chat ID 方法一，在 [一休技术交流群](https://t.me/yxjsjl) 里发送`/id@KinhRoBot`获取，返回用户信息中的`ID`就是Chat ID
     - 获取到你的 Chat ID 方法二，可以通过向 Bot 发送一条消息，然后访问 `https://api.telegram.org/bot<your_bot_token>/getUpdates` 找到 Chat ID。
 
-2. **配置 GitHub Secrets**
+2. **配置 GitHub Secrets **
     - 转到你 fork 的仓库页面。
     - 点击 `Settings`，然后在左侧菜单中选择 `Secrets`。
     - 添加以下 Secrets：
