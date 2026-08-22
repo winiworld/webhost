@@ -8,7 +8,7 @@
     - 打开你想要 fork 的 GitHub 仓库页面。
 
 2. **Fork 仓库**：
-    - 点击页面右上角的 "Fork" 按钮，将仓库 fork 到你的 GitHub 账户下。
+    - 点击页面右上角的  "Fork"  按钮，将仓库 fork 到你的 GitHub 账户下。
 
 #### 2. 设置 GitHub Secrets
 
